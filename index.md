@@ -10,6 +10,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Item 4
 
 
+| foo | bar |
+| --- | --- |
+| baz | bim |
+
+
 Lieblingszitat:
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
