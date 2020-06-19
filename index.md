@@ -9,13 +9,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Item 3
 * Item 4
 
-
-| Filme | Serien |
-|-------|--------|
-| 1996: From Dusk Till Dawn | 1998–1999: Walker, Texas Ranger |
-| 1999: From Dusk Till Dawn 2 – Texas Blood Money | 2000: Akte X – Die unheimlichen Fälle des FBI |
-
-
 Lieblingszitat:
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
