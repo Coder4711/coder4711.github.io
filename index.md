@@ -10,9 +10,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Item 4
 
 
-Lieblingszitat:
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
-
-
-<img src="https://images.freeimages.com/images/small-previews/d2f/bluebells-2007-1374105.jpg"/>
